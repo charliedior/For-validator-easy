@@ -18,6 +18,10 @@ yarn-error.log*
 *.swp
 *.swo
 
-# Test coverage and temporary files
+# Test coverage and temp files
 coverage/
 .nyc_output
+
+# Exclude tarballs and server.py
+*.tgz
+server.py

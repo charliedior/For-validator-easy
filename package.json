@@ -1,0 +1,16 @@
+{
+  "name": "form-validate-easy",
+  "version": "1.0.1",
+  "description": "A simple form validation utility for web applications",
+  "main": "index.js",
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["form", "validation", "web"],
+  "author": "Your Name Here",
+  "license": "MIT"
+}
